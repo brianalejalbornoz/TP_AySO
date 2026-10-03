@@ -1,1 +1,2 @@
 Usuario=brian
+model name	: 12th Gen Intel(R) Core(TM) i7-1255U
